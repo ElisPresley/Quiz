@@ -12,6 +12,9 @@ questions = [
     {"Fråga": "Vilket land har mest invånare?", "Svar": "Indien"},
     {"Fråga": "Hur många kontinenter har Jorden?", "Svar": "7"},
     {"Fråga": "Hur många kapitel har Bibeln?", "Svar": "1346"},
+    {"Fråga": "Vad heter Napoleon i efternamn?", "Svar": "Bonaparte"},
+    {"Fråga": "Hur många avsnitt har Breaking Bad och Better Call Saul tillsammans?", "Svar": "125"},
+    {"Fråga": "Vad heter Pixars första film?", "Svar": "Toy Story"},
 ]
 
 def kör_quiz():
